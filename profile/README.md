@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/WinguX/.github/main/profile/logowx.png" alt="WinguX Logo" width="250"/>
-  <h1>WinguX, Unleash your Digital Impact</h1>
+  <img src="https://raw.githubusercontent.com/wingu-x/.github/main/profile/logowx.png" alt="WinguX Logo" width="500"/>
   <p>
     <a href="#about-us">About Us</a> |
     <a href="#our-expertise">Our Expertise</a> |
