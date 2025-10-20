@@ -26,7 +26,7 @@
 We specialize in leveraging **state-of-the-art technologies** to deliver high-impact solutions and services. Our key areas of focus include:
 
 | Domain | Description |
-| :--- | :--- | :--- |
+| :--- | :--- |
 | **Cloud Computing** | Modern, scalable, and resilient infrastructure. |
 | **Big Data & Machine Learning** | Extracting actionable insights and building intelligent systems. |
 | **DevSecOps** | Integrating security and automation across the entire development lifecycle. |
